@@ -4,14 +4,10 @@ About
 Organizers
 ----------
 
-* Richard Darst, Aalto University (co-lead, RC/SciComp part)
-* Samantha Wittke, CSC - IT Center for Science (co-lead, RSE-FI)
-* Luca Ferranti, Aalto University
-* Ina Pöhner, University of Eastern Finland
-* Local volunteers: open
+* Richard Darst, Aalto University (co-lead)
 
 The organizers welcome others to take part in planning, either in
-short or long term.  We communicate via the `CodeRefinery chat, #NoBSC
+short or long term.  We communicate via the `CodeRefinery chat, #NoBSC-org
 channel <https://coderefinery.org/join/chat/>`__.  This is the same
 place that Nordic-RSE people hang out.
 
@@ -20,10 +16,8 @@ place that Nordic-RSE people hang out.
 Supported by
 ------------
 
-* Aalto Scientific Computing (Science-IT): Staff time, sponsoring all facilities
-* CSC - IT Center for Science (EuroCC2 project) : Staff time
-* Software Sustainability Institute (through fellowship of Samantha Wittke): Travel funding, planning support
-* [Society of Research Software Engineering](https://society-rse.org/) : Catering support
+* Aalto Scientific Computing (Science-IT): Staff time
+* TBD
 
 History of NoBSC
 ----------------
@@ -52,20 +46,7 @@ ideas, but soon we became closer together because we were all working
 online, and our `collaboration was focused on online events
 <https://coderefinery.org/workshops/past/>`__.
 
-Now, in 2025, we are trying to meet again in person.  Hopefully there
-are the best parts from NeIC conferences, NeIC all-hands meetings,
-and NordicHPC, with even more people welcome to attend.
-
-In addition to the SciComp team meetup, we have noticed that Research
-Software Engineering community, or "researchers who code" appreciate
-the connection to each other too - and there is a lot of connections
-and career movement between the two groups.  Samantha's fellowship
-with the Software Sustainability Institute looks at exactly that.
-Part of the fellowship is the contribution to the international RSE
-survey to get to know the Finnish and Nordic community needs a bit
-better.  A short lunch meeting of RSE enthusiasts in Espoo to
-celebrate the international RSE day on October 9th 2025 was a good
-start to connect. For the Finnish RSE meetup, we aim to also get
-together RSE enthusiasts from all over the country, share what we do,
-learn from each other and also learn about the needs and wishes of the
-community.
+In February 2026, we met again in person - some of the same people, many
+different people.  While it was ad-hoc and had no budget, it got the
+job of "meeting each other" done.  The attendees wanted to continue,
+and we currently plan to repeat the event next year in Tampere.

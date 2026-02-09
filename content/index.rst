@@ -1,4 +1,4 @@
-Nordic Basic Scientific Computing 2026
+Nordic Basic Scientific Computing 2027
 ======================================
 
 .. toctree::
@@ -9,6 +9,6 @@ Nordic Basic Scientific Computing 2026
 
 Nordic Basic Scientific Computing is a gathering of everyone
 interested in supporting scientific computing (and a celebration of
-the diverse work that makes it all possible).  The 2026 version is
+the diverse work that makes it all possible).  The 2027 version is
 currently planned to be held in Tampere in late January or early
-February, 2026
+February, 2027.

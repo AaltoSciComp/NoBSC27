@@ -102,7 +102,7 @@ html_context = {
     "github_version": github_version,
     "conf_py_path": conf_py_path,
 }
-html_logo = "NoBSC-button.jpg"
+html_logo = "NoBSC-button.png"
 
 # Intersphinx mapping.  For example, with this you can use
 # :py:mod:`multiprocessing` to link straight to the Python docs of that module.
