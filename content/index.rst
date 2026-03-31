@@ -12,3 +12,6 @@ interested in supporting scientific computing (and a celebration of
 the diverse work that makes it all possible).  The 2027 version is
 currently planned to be held in Tampere in late January or early
 February, 2027.
+
+You can read about the `2026 version on its website
+<https://aaltoscicomp.github.io/NoBSC/>`__.

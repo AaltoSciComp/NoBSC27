@@ -50,3 +50,7 @@ In February 2026, we met again in person - some of the same people, many
 different people.  While it was ad-hoc and had no budget, it got the
 job of "meeting each other" done.  The attendees wanted to continue,
 and we currently plan to repeat the event next year in Tampere.
+
+Past events:
+
+* `NoBSC 2026 <https://aaltoscicomp.github.io/NoBSC/>`__
