@@ -50,3 +50,14 @@ In February 2026, we met again in person - some of the same people, many
 different people.  While it was ad-hoc and had no budget, it got the
 job of "meeting each other" done.  The attendees wanted to continue,
 and we currently plan to repeat the event next year in Tampere.
+
+
+Past logos
+----------
+
+.. figure:: img/NoBSC-2026-plant.png
+
+   This plant represents the growth of a new organization out of a
+   harsh world.  This was taken outside one organizer's home, there
+   was apparently not even a crack in the concrete at this location.
+   Photo saturation increased to make the plant visible.
