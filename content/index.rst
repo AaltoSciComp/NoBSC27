@@ -19,4 +19,4 @@ Preliminary info:
 * CSC Ambassador's meet-up on the Tuesday before.
 * If you would like space for other satellite meetings on the morning
   before / afternoon after, let the organizers know.
-* For more info see `the 2027 edition <https://aaltoscicomp.github.io/NoBSC/>`__
+* For more info see `the 2026 edition <https://aaltoscicomp.github.io/NoBSC/>`__
