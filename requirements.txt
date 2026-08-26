@@ -7,3 +7,4 @@ sphinx-yaml-table
 sphinx-jinja2
 markdown
 markupsafe
+https://github.com/rkdarst/sphinx-misc-rkdarst/archive/master.zip

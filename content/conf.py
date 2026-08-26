@@ -38,6 +38,7 @@ extensions = [
     "sphinx_rtd_theme_ext_color_contrast",
     "sphinx_yaml_table",
     "sphinx_jinja2",
+    "sphinx_misc_rkdarst.inote",
 ]
 
 # Settings for myst_nb:
