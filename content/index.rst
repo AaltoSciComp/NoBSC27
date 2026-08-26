@@ -15,7 +15,7 @@ February, 2027.
 
 Preliminary info:
 
-* 2027 February 10-12 (Wed-Sat), roughly "lunch to lunch".
+* 2027 February 10-12 (Wed-Fri), roughly "lunch to lunch".
 * CSC Ambassador's meet-up on the Tuesday before.
 * If you would like space for other satellite meetings on the morning
   before / afternoon after, let the organizers know.
