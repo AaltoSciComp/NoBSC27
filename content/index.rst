@@ -3,8 +3,16 @@ Nordic Basic Scientific Computing 2027
 
 .. toctree::
    :hidden:
+   :caption: Information
 
+   practical-info
    about
+
+
+
+.. toctree::
+   :hidden:
+
    call-for-sessions
 
 Nordic Basic Scientific Computing is a gathering of those interested

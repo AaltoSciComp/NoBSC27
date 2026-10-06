@@ -1,0 +1,185 @@
+meta:
+  rooms:
+    main:
+      name: Palaver
+      description: Main room
+    takka:
+      name: Takka
+      description: 34p
+    klondyke:
+      name: Klondyke
+      description: "30p, only stairs"
+    poli:
+      name: Poli
+      description: 16p
+    other:
+      name: Other
+
+  days:
+    Wednesday: "Wednesday (10 February)"
+    Thursday: "Thursday (11 February)"
+    Friday: "Friday (12 February)"
+
+# To have an event NOT appear in the table
+# - exclude "time" or "location"
+# To have an event NOT appear in the paragraph descriptions:
+# - exclude the ID
+
+templates:
+    - &break
+      time: 10:50
+      location: other
+      title: Break
+      short: With coffee & small snacks
+
+    - &registration
+      title: Arrival and registration
+      time: 11:30
+      location: main
+      #short: Registration and lunch info
+
+    - &lunch
+      title: Lunch
+      time: 12:00
+      location: other
+      short: Location TBD
+
+    - &end
+      title: End of day
+      time: 17:00
+      location: main
+      short: Rooms remain available
+
+    - &dinner
+      title: Dinner
+      time: 18:00
+      location: other
+      short: No arrangements, self-organized
+
+    - &session
+      title: (session)
+      location: main
+      #short:
+
+    - &unconf
+      title: (session)
+      location: main
+      short: As proposed by attendees
+
+    - &discussion
+      title: Discussion session
+      location: main
+      short: Topic TBD
+
+
+schedule:
+  Wednesday:
+    #- #id: name   # If missing, do not include in the long list
+    #  #time: 10:00
+    #  #location: main  # must match one of the rooms above
+    #  title: Title    # Main title (only required attribute)
+    #  #contributors:  # One line.  Who contributes it.
+    #  #short:         # If given, a few words to appear in the table
+    #  #abstract: >-
+    #  #  abstract
+    #  #
+    #  #  newline
+
+    - <<: *registration
+    - <<: *lunch
+    - id: intro1
+      time: 13:00
+      location: main
+      title: Intro and welcome
+      contributors: Samantha Wittke, Richard Darst
+      abstract: >
+        Introductory words.
+    - id: cool-things-and-problems
+      title: Cool things and problems
+      time: 13:20
+      location: main
+      #short: short desc
+      contributors: Darst facilitates, everyone may present
+      abstract: >
+
+        [Example slides from 2026](https://docs.google.com/presentation/d/1UqHS_wsFP-XkkXW61UbAes7LG9K0nRMQthy4EJ2Xecw/edit)
+
+
+        Our icebreaker of the workshop, and starting point for sharing
+        ideas.  Everyone (hopefully grouped into teams from their
+        organization) can present one slide of three cool things they have
+        done lately, and one slide of three problems they are facing
+        lately.  We will quickly go through these and use the talk as a
+        starting point for discussion - maybe a few unconference talks
+        can be requested from it.
+
+
+        The session will be built from a shared editable slide deck.
+        Attendees will get contribution instructions (+ more details)
+        closer to the event.
+
+    #- <<: *session
+    #  time: 14:30
+    - <<: *break
+      time: 14:30
+    - <<: *session
+      time: 15:00
+    - <<: *end
+
+    - <<: *dinner
+      id: dinner1
+      #short:
+      #abstract: >-
+
+  Thursday:
+    #- #id: name   # If missing, do not include in the long list
+    #  #time: 10:00
+    #  #location: main  # must match one of the rooms above
+    #  title: Title    # Main title (only required attribute)
+    #  #contributors:  # One line.  Who contributes it.
+    #  #short:         # If given, a few words to appear in the table
+    #  #abstract: >-
+    #  #  abstract
+    #  #
+    #  #  newline
+
+    - <<: *session
+      time: 9:00
+    - <<: *break
+      time: 10:30
+    - id: panel
+      time: 10:00
+      shorttitle: "Panel discussion: Scientific computing experience"
+      title: "Panel discussion: Junior researcher's experience of scientific and HPC and computing"
+      location: main
+      abstract: >
+        Panel discussions are usually full of the most senior people
+        the organizers can find.  In this discussion, we'll hear from
+        junior researchers, about how usable they find computing
+        systems and the onboarding process.
+
+    - <<: *lunch
+
+    - <<: *session
+      time: 13:00
+    - <<: *break
+      time: 14:30
+    - <<: *session
+      time: 15:00
+
+    - <<: *end
+
+    - <<: *dinner
+      id: dinner2
+
+
+  Friday:
+    - <<: *session
+      time: 9:00
+    - <<: *break
+      time: 10:00
+    - <<: *session
+      time: 10:30
+
+    - <<: *lunch
+
