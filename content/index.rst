@@ -5,14 +5,20 @@ Nordic Basic Scientific Computing 2027
    :hidden:
    :caption: Information
 
+   what-is-NoBSC
+   registration
    practical-info
    about
+   sponsorship
 
 
 
 .. toctree::
    :hidden:
+   :caption: Program
 
+   schedule
+   unconference
    call-for-sessions
 
 Nordic Basic Scientific Computing is a gathering of those interested
