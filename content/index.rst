@@ -26,15 +26,9 @@ in supporting scientific computing (and a celebration of the diverse
 work that makes it all possible).
 
 This event focuses on practical discussion and experience-sharing in
-the world of RSE and SciComp. Whether you develop research software,
-support researchers through local computing services or you are simply
-curious about these roles, this is gathering for you. It’s a time to
-roll up our sleeves, look under the hood and talk about what’s really
-going on.
-
-Organizers will try to make some initial program, but we hope that
-most of the program is user-directed, including breakout sessions for
-focus areas such as AI, security, and so on.
+the world of those on teams supporting computing, data, and software.
+It’s a time to roll up our sleeves, look under the hood and talk about
+what we really do each day (and not just advertise how good we are).
 
 
 Preliminary info:

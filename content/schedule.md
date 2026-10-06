@@ -11,6 +11,10 @@ suitable for anything from small meetings to workshops with laptops.
 
 ## Schedule outline
 
+Note: A [CSC
+ambassadors](https://csc.fi/en/blog/csc-scientific-computing-ambassadors-strengthening-collaboration/)
+meeting is the Tuesday before and can easily be combined with NoBSC.
+
 :::{list-table}
 
 * * **10 Feb (Wed)**
