@@ -39,6 +39,7 @@ extensions = [
     "sphinx_yaml_table",
     "sphinx_jinja2",
     "sphinx_misc_rkdarst.inote",
+    "myst_parser",
 ]
 
 # Settings for myst_nb:

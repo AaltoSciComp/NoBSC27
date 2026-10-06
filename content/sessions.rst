@@ -1,3 +1,5 @@
+:orphan:
+
 List of sessions
 ================
 
@@ -31,6 +33,6 @@ invited by the organizers for the SciComp meetup (the second half).
 	 </section>
        {% endfor %}
        {% endfor%}
-   {% endfor %}
+       {% endfor %}
 
 
