@@ -15,16 +15,6 @@ arrive for lunch** you can find us on the 2nd floor Metso restaurant
 (not the Reima student restaurant that is next to it).
 
 
-FAQ
----
-
-Questions from attendees will be placed here for your reference:
-
-* .
-* .
-* .
-
-
 Food
 ----
 

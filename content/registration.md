@@ -8,7 +8,10 @@ We aim to have two types of registration:
 * **Professional registration** which fully covers the cost of
   attending and allows you to organize satellite sessions in our rooms
   before/after the meeting.  If your employer pays for your
-  attendance, we recommend selecting this option.
+  attendance, we recommend selecting this option.  Your organization's
+  logo can be on the website as an attendee, and your name may be
+  included in contact information for attendees (both only with
+  explicit permission).
 
 * **Independent registration**, which is partially subsidized, but
   otherwise equivalent.

@@ -180,6 +180,12 @@ schedule:
       time: 10:00
     - <<: *session
       time: 10:30
+    - id: outro
+      title: Outro and wrap-up
+      time: 11:30
+      location: main
+      abstract: >-
+        The warp-up of the event.
 
     - <<: *lunch
 

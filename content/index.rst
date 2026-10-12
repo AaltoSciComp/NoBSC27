@@ -6,12 +6,16 @@ Nordic Basic Scientific Computing 2027
    :caption: Information
 
    what-is-NoBSC
-   registration
-   practical-info
    about
    sponsorship
+   faq
 
+.. toctree::
+   :hidden:
+   :caption: Attend
 
+   registration
+   practical-info
 
 .. toctree::
    :hidden:
@@ -25,13 +29,23 @@ Nordic Basic Scientific Computing is a gathering of those interested
 in supporting scientific computing (and a celebration of the diverse
 work that makes it all possible).
 
-This event focuses on practical discussion and experience-sharing in
-the world of those on teams supporting computing, data, and software.
-It’s a time to roll up our sleeves, look under the hood and talk about
-what we really do each day (and not just advertise how good we are).
+We gather for practical discussion and experience-sharing in the world
+of teams supporting {computing, data, and software}.  It's a
+time to roll up our sleeves, look under the hood and talk about what
+we really do each day (and not just advertise how good we are).
 
+You can find plenty of conferences where people talk about how big
+their computers are, or how they should support researcher with
+technology, or how nice their citations are.  But there's some
+intersection, a "full-stack" view from the research support to the
+infrastructure.  With "AI" putting computing and data tools into
+everyone's hands, this is more important than ever.
 
-Preliminary info:
+.. image:: NoBSC-diagram.png
+   :align: center
+   :width: 75%
+
+Basic info:
 
 * Aalto University campus, Helsinki :inote:`actually Otaniemi, Espoo,
   but I bet either you come from far enough away it doesn't matter, or

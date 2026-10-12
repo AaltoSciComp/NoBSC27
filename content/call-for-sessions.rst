@@ -15,7 +15,7 @@ Contribution inspirations
 ---------------------------
 
 **You are allowed (and encourage) to come with a question instead of a
- solution.**
+solution.**
 
 * Introduction to how my team/organization works.
 * Problem or concern I am facing now.
