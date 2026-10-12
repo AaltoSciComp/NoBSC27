@@ -15,7 +15,9 @@ have shown that Nordics-Baltics are a nice, cohesive unit.
 
 Our goal is to emphasize the "hallway track" by allowing talks to be
 scheduled ad-hoc, and not just advertising known solutions but talking
-about what we *don't* have a solution for yet.
+about what we *don't* have a solution for yet.  This is stressful for
+us organizers (will people come?), but promotes talking about what
+real problems and solutions, not just polished results.
 
 
 Pictures

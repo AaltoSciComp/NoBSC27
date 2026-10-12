@@ -17,7 +17,7 @@ Supported by
 ------------
 
 * Aalto Scientific Computing (Science-IT): Staff time
-* TBD
+* CSC: Staff time
 
 
 History of NoBSC
@@ -47,19 +47,21 @@ ideas, but soon we became closer together because we were all working
 online, and our `collaboration was focused on online events
 <https://coderefinery.org/workshops/past/>`__.
 
-In February 2026, we met again in person - some of the same people, many
-different people.  While it was ad-hoc and had no budget, it got the
-job of "meeting each other" done.  The attendees wanted to continue,
-and we currently plan to repeat the event in 2027.
+`In February 2026 <https://aaltoscicomp.github.io/NoBSC26/>`__, we met
+again in person - some of the same people, many different people.
+While it was ad-hoc and had no budget, it got the job of "meeting each
+other" done.  The attendees wanted to continue, and we currently plan
+to repeat the event in 2027.
 
 Past logos
 ----------
 
 .. figure:: img/NoBSC-2026-plant.png
 
-   This plant represents the growth of a new organization out of a
-   harsh world.  This was taken outside one organizer's home, where
-   was apparently not even a crack in the concrete.  Photo saturation
+   `NoBSC 2026 <https://aaltoscicomp.github.io/NoBSC26/>`__: This
+   plant represents the growth of a new organization out of a harsh
+   world.  This was taken outside one organizer's home, where was
+   apparently not even a crack in the concrete.  Photo saturation
    increased to make the plant visible.
 
 

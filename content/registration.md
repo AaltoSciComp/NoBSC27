@@ -13,11 +13,12 @@ We aim to have two types of registration:
   included in contact information for attendees (both only with
   explicit permission).
 
-* **Independent registration**, which is partially subsidized, but
-  otherwise equivalent.
+* **Independent registration**, which is intended for students or
+  researchers attending without institutional support, but otherwise
+  equivalent.
 
 Both registration types include break food and meals as listed on the
 schedule.  Our (organizer's) time is limited, so our goal is to make
 it easy by ordering all meals and catering, which is unfortunately not
-cheap.  NoBSC is a new, independently organized event and
-registration fees are set at the bare minimum to make this possible.
+cheap.  NoBSC is a new, independently organized event and registration
+fees are set at the bare minimum to make the event sustainable.

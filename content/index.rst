@@ -38,8 +38,12 @@ You can find plenty of conferences where people talk about how big
 their computers are, or how they should support researcher with
 technology, or how nice their citations are.  But there's some
 intersection, a "full-stack" view from the research support to the
-infrastructure.  With "AI" putting computing and data tools into
-everyone's hands, this is more important than ever.
+infrastructure.  With everyone wanting to use "AI" and "AI" putting
+computing and data tools into everyone's hands, we need to talk
+through the whole support stack more than ever :inote:`So is this an
+AI meetup?  No and yes.  "No", because we aren't talking "AI"
+buzzwords.  "Yes", because we talk about all the things needed to make
+"AI" possible.`.
 
 .. image:: NoBSC-diagram.png
    :align: center
@@ -53,6 +57,8 @@ Basic info:
 * 2027 February 10-12 (Wed-Fri), roughly "lunch to lunch".
 * CSC Ambassador's meet-up on the Tuesday before.
 * If you would like space for other satellite meetings on the morning
-  before / afternoon after, let the organizers know.  Our spaces are reserved.
+  before / afternoon after, let the organizers know.  Our spaces are
+  reserved during this time and professional attendees can use them
+  for satellite meetings.
 * For more info, see `the 2026 edition
   <https://aaltoscicomp.github.io/NoBSC26/>`__
