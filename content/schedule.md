@@ -25,6 +25,8 @@ meeting is the Tuesday before and can easily be combined with NoBSC.
 
 	Arrival by lunch time (space for networking before then).
 
+	Registration ~11:30-12:00
+
   * SciComp user panel
 
     Unconference sessions (up to 4 parallel sessions)
