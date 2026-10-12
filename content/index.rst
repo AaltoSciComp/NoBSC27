@@ -55,4 +55,4 @@ Basic info:
 * If you would like space for other satellite meetings on the morning
   before / afternoon after, let the organizers know.  Our spaces are reserved.
 * For more info, see `the 2026 edition
-  <https://aaltoscicomp.github.io/NoBSC/>`__
+  <https://aaltoscicomp.github.io/NoBSC26/>`__
