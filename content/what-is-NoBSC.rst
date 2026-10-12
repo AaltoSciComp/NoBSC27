@@ -18,45 +18,36 @@ scheduled ad-hoc, and not just advertising known solutions but talking
 about what we *don't* have a solution for yet.
 
 
-History of NoBSC
-----------------
+Pictures
+--------
 
-You could say this event was first inspired when Richard Darst went to
-the `Nordic e-Infrastructure Collaboration conference in 2017
-<https://web.archive.org/web/20170915060021/http://neic2017.nordforsk.org/>`__.
-This event had a variety of infrastructure and open science people not
-advertising why their stuff was so good, but discussion how to make
-things better.  (At least that's what it looks like with rose-colored
-glasses looking back.)  This also kicked off the collaboration between
-ASC and CodeRefinery (a NeIC project dedicated to teaching basic
-software tools for researchers), which continues to this day.
+.. figure:: img/2026-flyers.jpg
+   :alt: People talking
 
-CodeRefinery didn't feel like a collaboration not between
-organizations, but between the people in the trenches directly helping
-or users.  This was an extremely productive collaboration, not just in
-the main teaching but in connecting people together to talk about
-their other jobs besides teaching.
-
-In 2019, we had a meeting it Helsinki called `Nordic HPC
-<https://nordichpc.github.io/2019-11-14-helsinki/>`__, basically a lot
-of the CodeRefinery staff who were supporters of smaller
-university-based computing clusters.  We enjoyed talking and sharing
-ideas, but soon we became closer together because we were all working
-online, and our `collaboration was focused on online events
-<https://coderefinery.org/workshops/past/>`__.
-
-In February 2026, we met again in person - some of the same people, many
-different people.  While it was ad-hoc and had no budget, it got the
-job of "meeting each other" done.  The attendees wanted to continue,
-and we currently plan to repeat the event in 2027.
+   Lots of time for talking.
 
 
-Past logos
-----------
+.. figure:: img/2026-unconf-day1.jpg
+   :alt: Unconference board
 
-.. figure:: img/NoBSC-2026-plant.png
+   Creating the program as we go.
 
-   This plant represents the growth of a new organization out of a
-   harsh world.  This was taken outside one organizer's home, there
-   was apparently not even a crack in the concrete at this location.
-   Photo saturation increased to make the plant visible.
+
+.. figure:: img/2026-unconf-day2.jpg
+   :alt: Unconference board
+
+   More creating the program as it happened.  We were learning along
+   the way, but it worked well.
+
+
+.. figure:: img/2026-outside.jpg
+   :alt: Snowy outside
+
+   Weather was cold but nice.
+
+
+.. figure:: img/2026-feedback.jpg
+   :alt: Sticky note saying "NoBSC worked great"
+   :width: 50%
+
+   Attendees wanted more.
