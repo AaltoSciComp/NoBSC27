@@ -39,6 +39,7 @@ extensions = [
     "sphinx_yaml_table",
     "sphinx_jinja2",
     "sphinx_misc_rkdarst.inote",
+    "myst_parser",
 ]
 
 # Settings for myst_nb:
@@ -69,6 +70,8 @@ exclude_patterns = [
     ".DS_Store",
     "jupyter_execute",
     "*venv*",
+    "*~",
+    ".#*"
 ]
 
 
@@ -121,14 +124,14 @@ html_logo = "img/NoBSC-2027-button.png"
 # }
 
 
-#import yaml
-#schedule = yaml.safe_load(open('schedule.yaml'))
-#schedule['sessions'] = sum(schedule['schedule'].values(), [])
-#jinja2_contexts = {
-#    'ctx1': {
-#        'schedule': schedule,
-#    }
-#}
+import yaml
+schedule = yaml.safe_load(open('schedule.yaml'))
+schedule['sessions'] = sum(schedule['schedule'].values(), [])
+jinja2_contexts = {
+    'ctx1': {
+        'schedule': schedule,
+    }
+}
 
 
 import jinja2

@@ -3,27 +3,58 @@ Nordic Basic Scientific Computing 2027
 
 .. toctree::
    :hidden:
+   :caption: Information
 
+   what-is-NoBSC
    about
+   sponsorship
+   faq
+
+.. toctree::
+   :hidden:
+   :caption: Attend
+
+   registration
+   practical-info
+
+.. toctree::
+   :hidden:
+   :caption: Program
+
+   schedule
+   unconference
    call-for-sessions
 
 Nordic Basic Scientific Computing is a gathering of those interested
 in supporting scientific computing (and a celebration of the diverse
 work that makes it all possible).
 
-This event focuses on practical discussion and experience-sharing in
-the world of RSE and SciComp. Whether you develop research software,
-support researchers through local computing services or you are simply
-curious about these roles, this is gathering for you. It’s a time to
-roll up our sleeves, look under the hood and talk about what’s really
-going on.
+We gather for practical discussion and experience-sharing in the world
+of teams supporting {computing, data, and software}.  It's a
+time to roll up our sleeves, look under the hood and talk about what
+we really do each day (and not just advertise how good we are).
 
-Organizers will try to make some initial program, but we hope that
-most of the program is user-directed, including breakout sessions for
-focus areas such as AI, security, and so on.
+You can find plenty of conferences where people talk about how big
+their computers are, or how they should support researcher with
+technology, or how nice their citations are.  But there's some
+intersection, a "full-stack" view from the research support to the
+infrastructure.  With everyone wanting to use "AI" and "AI" putting
+computing and data tools into everyone's hands, we need this
+perspective more than ever :inote:`So is this an AI meetup?  No and
+yes.  "No", because we aren't talking "AI" buzzwords.  "Yes", because
+we talk about all the things needed to make "AI" possible.`.
 
+Also, to the best of our knowledge, there are few Nordic-scoped
+conferences designed for skill development and professional networking
+of this broad intersection of professionals :inote:`[NeIC conference?]
+The NeIC conference was like this, but for NeIC staff.  We are trying
+to continue that spirit more broadly.`.
 
-Preliminary info:
+.. image:: NoBSC-diagram.png
+   :align: center
+   :width: 75%
+
+Basic info:
 
 * Aalto University campus, Helsinki :inote:`actually Otaniemi, Espoo,
   but I bet either you come from far enough away it doesn't matter, or
@@ -31,6 +62,8 @@ Preliminary info:
 * 2027 February 10-12 (Wed-Fri), roughly "lunch to lunch".
 * CSC Ambassador's meet-up on the Tuesday before.
 * If you would like space for other satellite meetings on the morning
-  before / afternoon after, let the organizers know.  Our spaces are reserved.
+  before / afternoon after, let the organizers know.  Our spaces are
+  reserved during this time and professional attendees can use them
+  for satellite meetings.
 * For more info, see `the 2026 edition
-  <https://aaltoscicomp.github.io/NoBSC/>`__
+  <https://aaltoscicomp.github.io/NoBSC26/>`__
