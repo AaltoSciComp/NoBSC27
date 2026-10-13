@@ -1,7 +1,8 @@
 # Registration
 
 Registration will open later, and will likely be priced around 100-150
-EUR.
+EUR.  Due to venue capacity and trying to keep it informal, we
+estimate we can take a max of 50-70 participants.
 
 We aim to have two types of registration:
 

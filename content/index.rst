@@ -39,11 +39,16 @@ their computers are, or how they should support researcher with
 technology, or how nice their citations are.  But there's some
 intersection, a "full-stack" view from the research support to the
 infrastructure.  With everyone wanting to use "AI" and "AI" putting
-computing and data tools into everyone's hands, we need to talk
-through the whole support stack more than ever :inote:`So is this an
-AI meetup?  No and yes.  "No", because we aren't talking "AI"
-buzzwords.  "Yes", because we talk about all the things needed to make
-"AI" possible.`.
+computing and data tools into everyone's hands, we need this
+perspective more than ever :inote:`So is this an AI meetup?  No and
+yes.  "No", because we aren't talking "AI" buzzwords.  "Yes", because
+we talk about all the things needed to make "AI" possible.`.
+
+Also, to the best of our knowledge, there are few Nordic-scoped
+conferences designed for skill development and professional networking
+of this broad intersection of professionals :inote:`[NeIC conference?]
+The NeIC conference was like this, but for NeIC staff.  We are trying
+to continue that spirit more broadly.`.
 
 .. image:: NoBSC-diagram.png
    :align: center
