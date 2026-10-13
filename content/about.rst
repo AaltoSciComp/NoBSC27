@@ -5,7 +5,7 @@ Organizers
 ----------
 
 * Richard Darst, Aalto University (co-lead)
-* Samantha Wittke, CSC (co-lead)
+* Samantha Wittke, CSC - IT Center for Science (co-lead)
 
 The organizers welcome others to take part in planning, either in
 short or long term.  We communicate via the `CodeRefinery chat, #NoBSC-org
@@ -17,7 +17,7 @@ Supported by
 ------------
 
 * Aalto Scientific Computing (Science-IT): Staff time
-* CSC: Staff time
+* CSC - IT Center for Science: Staff time
 
 
 History of NoBSC
