@@ -42,8 +42,8 @@ intersection, a "full-stack" view from the research support to the
 infrastructure.  "AI" support actually means all the computing, data,
 ethics, infrastructure, and operational support needed to put all
 these pieces together :inote:`So is this an AI meetup?  No and yes.
-"No", because we aren't talking "AI" buzzwords.  "Yes", because we
-talk about all the things needed to make "AI" possible.`.
+"No", because we aren't talking "AI" buzzwords.  "Yes", because most
+of us are focused on supporting "AI" as well as possible.`.
 
 Also, to the best of our knowledge, there are few Nordic-scoped
 conferences designed for skill development and professional networking
