@@ -1,11 +1,11 @@
 # Unconference
 
-A large part of this meeting is organized as an "`unconference
-<https://en.wikipedia.org/wiki/Unconference>`__", with sessions
-decided more dynamically by participants than usual rather than being
-pre-selected by a program committee.  Think of it as an official
-"hallways track".  This makes more emphasis on discussions, rather
-than flashy abstracts and slides.
+A large part of this meeting is organized as an
+"[unconference](https://en.wikipedia.org/wiki/Unconference)", with
+sessions decided more dynamically by participants than usual rather
+than being pre-selected by a program committee.  Think of it as an
+official "hallways track".  This makes more emphasis on discussions,
+rather than flashy abstracts and slides.
 
 Attendees will be able to suggest talks during the meeting, and there
 will be sessions where we organize these proposals into available time
@@ -23,3 +23,16 @@ exactly for those spontaneous, interest-driven sessions.
 History shows that we'll find at least some time for everything
 someone wants to present.  The main question is how long to take
 (lighting, talk, discussion, etc).
+
+
+.. figure:: img/2026-unconf-day1.jpg
+   :alt: Unconference board
+
+   The unconference plan from 2026.  It was small and we were learning
+   how it worked, but it worked well for what we had.
+
+
+.. figure:: img/2026-unconf-day2.jpg
+   :alt: Unconference board
+
+   Like above, for day 2.

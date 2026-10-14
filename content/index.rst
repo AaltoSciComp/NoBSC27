@@ -26,8 +26,8 @@ Nordic Basic Scientific Computing 2027
    call-for-sessions
 
 Nordic Basic Scientific Computing is a gathering of those interested
-in supporting scientific computing (and a celebration of the diverse
-work that makes it all possible).
+in supporting {scientific,research} {computing,data} (and a
+celebration of the diverse work that makes it all possible).
 
 We gather for practical discussion and experience-sharing in the world
 of teams supporting {computing, data, and software}.  It's a
@@ -36,19 +36,21 @@ we really do each day (and not just advertise how good we are).
 
 You can find plenty of conferences where people talk about how big
 their computers are, or how they should support researcher with
-technology, or how nice their citations are.  But there's some
+technology, or how nice their citations are.  You can find plenty of
+"AI" that don't talk say anything concrete.  But there's some
 intersection, a "full-stack" view from the research support to the
-infrastructure.  With everyone wanting to use "AI" and "AI" putting
-computing and data tools into everyone's hands, we need this
-perspective more than ever :inote:`So is this an AI meetup?  No and
-yes.  "No", because we aren't talking "AI" buzzwords.  "Yes", because
-we talk about all the things needed to make "AI" possible.`.
+infrastructure.  "AI" support actually means all the computing, data,
+ethics, infrastructure, and operational support needed to put all
+these pieces together :inote:`So is this an AI meetup?  No and yes.
+"No", because we aren't talking "AI" buzzwords.  "Yes", because we
+talk about all the things needed to make "AI" possible.`.
 
 Also, to the best of our knowledge, there are few Nordic-scoped
 conferences designed for skill development and professional networking
 of this broad intersection of professionals :inote:`[NeIC conference?]
-The NeIC conference was like this, but for NeIC staff.  We are trying
-to continue that spirit more broadly.`.
+The NeIC conference was like this, but for NeIC staff and
+unfortunately won't continue.  We are trying to continue with that
+spirit.`.
 
 .. image:: NoBSC-diagram.png
    :align: center

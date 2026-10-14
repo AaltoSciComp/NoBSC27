@@ -11,6 +11,9 @@ lightning talk, workshop) in addition to the :doc:`unconference track
 <unconference>`, where sessions are proposed and scheduled during the
 meeting.
 
+We have four different rooms available to us (of different sizes),
+plus lots of lobby area for informal breakout.
+
 Contribution inspirations
 ---------------------------
 
