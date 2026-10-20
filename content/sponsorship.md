@@ -6,14 +6,21 @@ long way to making it possible.
 
 Why sponsor?  NoBSC is not a big event focused on fancy graphics and
 advertisements, nor an academic event where people are focused on
-their own work.  **For public sector supporters**, the staff
-networking time allows upskilling and professional networking
-necessary to keep research infrastructure working at top efficiency.
+their own work.
+
+**For public sector supporters**, the staff networking time allows
+upskilling and professional networking necessary to keep research
+infrastructure working at top efficiency.  There is no better place to
+support the integration of {teaching, research infrastructure, and
+expert support} in the age of AI changing everything every six
+months - and you know we are serious since we can say directly what we
+do instead of calling this an "AI" conference.
+
 **For private sector supporters**, this is a time to meet the
 day-to-day infrastructure people, who are supporting the broad
-research community, and ensure you are up to date with the latest
-needs of the research infrastructure community {inote}`and the
-research infra community knows what you have on offer`.
+academic community, and ensure you are up to date with the latest
+needs of the research infrastructures {inote}`and the research infra
+community knows what you have on offer`.
 
 Some specific possibilities include:
 * Base sponsor: the rooms
