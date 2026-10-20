@@ -39,6 +39,7 @@ extensions = [
     "sphinx_yaml_table",
     "sphinx_jinja2",
     "sphinx_misc_rkdarst.inote",
+    "sphinx_misc_rkdarst.list_table_multicell",
     "myst_parser",
 ]
 

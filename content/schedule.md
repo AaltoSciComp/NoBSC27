@@ -15,11 +15,15 @@ Note: A [CSC
 ambassadors](https://csc.fi/en/blog/csc-scientific-computing-ambassadors-strengthening-collaboration/)
 meeting is the Tuesday before and can easily be combined with NoBSC.
 
-:::{list-table}
+:::{list-table-multicell}
 
 * * **10 Feb (Wed)**
   * **11 Feb (Thu)**
   * **12 Feb (Fri)**
+
+* *
+  * multicolumn(2) 9:00 Start of day
+  *
 
 * * (possibility for satellite sessions)
 
@@ -35,9 +39,9 @@ meeting is the Tuesday before and can easily be combined with NoBSC.
 
 	Closing
 
-* * 12:00 Lunch (included)
-  * 12:00 Lunch (included)
-  * 12:00 Lunch (included)
+* * multicolumn(3) 12:00 Lunch (included)
+  *
+  *
 
 * * Introduction
 
@@ -54,6 +58,17 @@ meeting is the Tuesday before and can easily be combined with NoBSC.
    * Ends after lunch
 
 	 (possibility for satellite sessions)
+
+* * multicolumn(2) 17:00 end of day (dinner is not currently included
+    {inote}`but it might become included if we get sponsors`)
+  *
+  *
+
+* * (possible evening activity)
+  * (possible evening activity)
+  *
+
+
 :::
 
 
