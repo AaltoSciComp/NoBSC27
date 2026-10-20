@@ -13,6 +13,12 @@ meeting.  We will schedule some sessions in advance, and some promoted
 to the unconference track :inote:`Meaning: the unconference board will
 be seeded with these ideas.`
 
+.. figure:: img/NoBSC-submissions.png
+   :alt: Flowchart of the above paragraph
+
+   You can submit in advance or not, and we will schedule some things
+   in advance and some during the meeting.
+
 We have four different rooms available to us (of different sizes and
 arrangements), plus lots of lobby area for informal breakout.
 
