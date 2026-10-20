@@ -19,8 +19,11 @@ Food
 ----
 
 The registration fee includes lunch (days 1,2,3) and coffee breaks
-during each half-of-the-day.  They can cater to any common diet.
+during each half-of-the-day.  They can cater to any common diet and we
+are planning for all food to be vegetarian.
 
+Currently, we are not budgeting a included conference dinner, but if
+we get sponsors this might be possible.
 
 Otherwise, there are various restaurants on campus.  These restaurants
 can generally cater to all common diets, including vegetarian, vegan,
