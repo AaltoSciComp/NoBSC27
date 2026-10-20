@@ -25,14 +25,15 @@ someone wants to present.  The main question is how long to take
 (lighting, talk, discussion, etc).
 
 
-.. figure:: img/2026-unconf-day1.jpg
-   :alt: Unconference board
+:::{figure} img/2026-unconf-day1.jpg
+:alt: Unconference board
 
-   The unconference plan from 2026.  It was small and we were learning
-   how it worked, but it worked well for what we had.
+The unconference plan from 2026.  It was small and we were learning
+how it worked, but it worked well for what we had.
+:::
 
+:::{figure} img/2026-unconf-day2.jpg
+:alt: Unconference board
 
-.. figure:: img/2026-unconf-day2.jpg
-   :alt: Unconference board
-
-   Like above, for day 2.
+Like above, for day 2.
+:::
