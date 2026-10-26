@@ -37,7 +37,7 @@ we really do each day (and not just advertise how good we are).
 You can find plenty of conferences where people talk about how big
 their computers are, or how they should support researcher with
 technology, or how nice their citations are.  You can find plenty of
-"AI" that don't talk say anything concrete.  But there's some
+"AI" talks that don't talk say anything concrete.  But there's some
 intersection, a "full-stack" view from the research support to the
 infrastructure.  "AI" support actually means all the computing, data,
 ethics, infrastructure, and operational support needed to put all
