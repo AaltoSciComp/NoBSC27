@@ -23,7 +23,7 @@ needs of the research infrastructures {inote}`and the research infra
 community knows what you have on offer`.
 
 Some specific possibilities include:
-* Base sponsor: the rooms
+* Base sponsor: the rooms (taken)
 * Conference dinner
 * Social event (board games at board game cafe)
 
