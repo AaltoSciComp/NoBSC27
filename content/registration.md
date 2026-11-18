@@ -6,17 +6,17 @@ estimate we can take a max of 50-70 participants.
 
 We aim to have two types of registration:
 
-* **Professional registration** which fully covers the cost of
-  attending and allows you to organize satellite sessions in our rooms
-  before/after the meeting.  If your employer pays for your
+* **Professional registration (150 EUR)** which fully covers the cost
+  of attending and allows you to organize satellite sessions in our
+  rooms before/after the meeting.  If your employer pays for your
   attendance, we recommend selecting this option.  Your organization's
   logo can be on the website as an attendee, and your name may be
   included in contact information for attendees (both only with
   explicit permission).
 
-* **Independent registration**, which is intended for students or
-  researchers attending without institutional support, but otherwise
-  equivalent.
+* **Independent registration (100 EUR)**, which is intended for
+  students or researchers attending without institutional support, but
+  otherwise equivalent.
 
 Both registration types include break food and meals as listed on the
 schedule.  Our (organizer's) time is limited, so our goal is to make
