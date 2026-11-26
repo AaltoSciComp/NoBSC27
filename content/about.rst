@@ -8,9 +8,9 @@ Organizers
 * Samantha Wittke, CSC - IT Center for Science (co-lead)
 
 The organizers welcome others to take part in planning, either in
-short or long term.  We communicate via the `CodeRefinery chat, #NoBSC-org
-channel <https://coderefinery.org/join/chat/>`__.  This is the same
-place that Nordic-RSE people hang out.
+short or long term.  We communicate via the `CodeRefinery chat,
+#NoBSC-2027-org channel <https://coderefinery.org/join/chat/>`__.
+This is the same place that Nordic-RSE people hang out.
 
 
 Supported by

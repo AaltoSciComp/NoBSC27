@@ -69,3 +69,15 @@ Basic info:
   for satellite meetings.
 * For more info, see `the 2026 edition
   <https://aaltoscicomp.github.io/NoBSC26/>`__
+
+
+Chat
+----
+
+You can chat with us via the `CodeRefinery Zulipchat
+coderefinery.zulipchat.com <https://coderefinery.zulipchat.com/>`__
+(`about CR chat <https://coderefinery.github.io/manuals/chat/>`__),
+channels:
+
+* `#scicomp-teams` - attendees and people working on computing teams
+* `#NoBSC-2027-org` - organizer planning.
