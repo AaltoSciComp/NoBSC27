@@ -23,3 +23,12 @@ schedule.  Our (organizer's) time is limited, so our goal is to make
 it easy by ordering all meals and catering, which is unfortunately not
 cheap.  NoBSC is a new, independently organized event and registration
 fees are set at the bare minimum to make the event sustainable.
+
+**Registration is not refundable, because of the effort needed to
+manage these processes.  We won't mind if you can transfer your
+registration to someone else.**
+
+**If you want to organize satellite sessions (professional attendees),
+contact the organizers - we have four rooms paid for, and it would be
+good to use them.  We have them available Wednesday morning and Friday
+afternoon.**
